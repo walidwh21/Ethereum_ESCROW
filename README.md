@@ -2,7 +2,7 @@
 
 A state-driven Ethereum escrow example built with **Solidity 0.8.28**, Hardhat, and Ethers v6. The buyer deposits ETH, then either approves payment to the seller or reclaims the deposit after a configured deadline
 
-![Solidity](https://img.shields.io/badge/Solidity-0.8.28-363636?logo=solidity) ![Hardhat](https://img.shields.io/badge/Hardhat-2.x-yellow?logo=hardhat) ![License](https://img.shields.io/badge/License-MIT-blue)
+![Solidity](https://img.shields.io/badge/Solidity-0.8.28-363636?logo=solidity) ![Hardhat](https://img.shields.io/badge/Hardhat-2.x-yellow?logo=hardhat)
 
 > **Scope:** This repository is an educational reference implementation. It has not been audited and should not hold production funds without independent review
 
